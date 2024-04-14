@@ -1,0 +1,15 @@
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\bin\Debug\Service.exe.config
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\bin\Debug\Service.exe
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\bin\Debug\Service.pdb
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\MainWindow.g.cs
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\App.g.cs
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service_MarkupCompile.cache
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service_MarkupCompile.lref
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\MainWindow.baml
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.g.resources
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.Properties.Resources.resources
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.csproj.GenerateResource.cache
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.exe
+D:\Proiect ISS\Spookify-Echipa-Team\Service\Service\obj\Debug\Service.pdb
