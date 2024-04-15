@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Service.App.Entity
+namespace Service.Backend.Entity
 {
     public class User
     {
@@ -16,6 +16,7 @@ namespace Service.App.Entity
             UserId = userId;
             UserName = userName;
         }
+      
 
         public string GetUserName() 
         { 

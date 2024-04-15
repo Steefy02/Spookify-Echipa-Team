@@ -3,144 +3,191 @@
   "WorkspaceRootPath": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\app\\entity\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\entity\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app\\entity\\streamcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\entity\\streamcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app\\service\\streamcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\service\\streamcountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\entity\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\entity\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\entity\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\entity\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|d:\\proiect iss\\spookify-echipa-team\\service\\service\\backend\\repository\\statsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\backend\\repository\\statsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0255AA7-A7C8-42C5-BDC5-34DD43FAC532}|Service\\Service.csproj|solutionrelative:service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 191,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\obj\\Debug\\App.g.cs",
+              "RelativeDocumentMoniker": "Service\\obj\\Debug\\App.g.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\obj\\Debug\\App.g.cs",
+              "RelativeToolTip": "Service\\obj\\Debug\\App.g.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAhwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:09:20.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StreamCountService.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Service\\StreamCountService.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Service\\StreamCountService.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Service\\StreamCountService.cs",
-              "RelativeToolTip": "Service\\App\\Service\\StreamCountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "DocumentIndex": 8,
+              "Title": "StatsRepository.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Repository\\StatsRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Repository\\StatsRepository.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Repository\\StatsRepository.cs",
+              "RelativeToolTip": "Service\\Backend\\Repository\\StatsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:40:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Service\\App.xaml.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App.xaml.cs",
+              "RelativeToolTip": "Service\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:24:17.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatsService.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Services\\StatsService.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Services\\StatsService.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Services\\StatsService.cs",
+              "RelativeToolTip": "Service\\Backend\\Services\\StatsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:48:06.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Service\\FileService.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Service\\FileService.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Service\\FileService.cs",
-              "RelativeToolTip": "Service\\App\\Service\\FileService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBMAAAAdAAAA",
+              "DocumentIndex": 0,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Services\\SongService.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Services\\SongService.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Services\\SongService.cs",
+              "RelativeToolTip": "Service\\Backend\\Services\\SongService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:47:34.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StreamCount.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\StreamCount.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Entity\\StreamCount.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\StreamCount.cs",
-              "RelativeToolTip": "Service\\App\\Entity\\StreamCount.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\Stats.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Entity\\Stats.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\Stats.cs",
+              "RelativeToolTip": "Service\\Backend\\Entity\\Stats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:45:39.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Entity\\User.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\User.cs",
-              "RelativeToolTip": "Service\\App\\Entity\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAgAAAA",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Entity\\User.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\User.cs",
+              "RelativeToolTip": "Service\\Backend\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:40:08.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Repository\\FileRepository.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Repository\\FileRepository.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Repository\\FileRepository.cs",
-              "RelativeToolTip": "Service\\App\\Repository\\FileRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 7,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Repository\\SongRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Repository\\SongRepository.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Repository\\SongRepository.cs",
+              "RelativeToolTip": "Service\\Backend\\Repository\\SongRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T19:18:04.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "File.cs",
-              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\File.cs",
-              "RelativeDocumentMoniker": "Service\\App\\Entity\\File.cs",
-              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App\\Entity\\File.cs",
-              "RelativeToolTip": "Service\\App\\Entity\\File.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\Song.cs",
+              "RelativeDocumentMoniker": "Service\\Backend\\Entity\\Song.cs",
+              "ToolTip": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\Backend\\Entity\\Song.cs",
+              "RelativeToolTip": "Service\\Backend\\Entity\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T19:11:27.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\App.xaml",
               "RelativeDocumentMoniker": "Service\\App.xaml",
@@ -165,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Service\\MainWindow.xaml",
@@ -177,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Proiect ISS\\Spookify-Echipa-Team\\Service\\Service\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Service\\MainWindow.xaml.cs",
@@ -185,7 +232,8 @@
               "RelativeToolTip": "Service\\MainWindow.xaml.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAADwvxoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T18:53:41.353Z"
+              "WhenOpened": "2024-04-14T18:53:41.353Z",
+              "EditorCaption": ""
             }
           ]
         }

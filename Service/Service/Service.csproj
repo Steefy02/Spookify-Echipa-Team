@@ -63,12 +63,13 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="App\Entity\File.cs" />
-    <Compile Include="App\Entity\StreamCount.cs" />
-    <Compile Include="App\Entity\User.cs" />
-    <Compile Include="App\Repository\FileRepository.cs" />
-    <Compile Include="App\Service\FileService.cs" />
-    <Compile Include="App\Service\StreamCountService.cs" />
+    <Compile Include="Backend\Entity\Song.cs" />
+    <Compile Include="Backend\Entity\Stats.cs" />
+    <Compile Include="Backend\Entity\User.cs" />
+    <Compile Include="Backend\Repository\SongRepository.cs" />
+    <Compile Include="Backend\Repository\StatsRepository.cs" />
+    <Compile Include="Backend\Services\SongService.cs" />
+    <Compile Include="Backend\Services\StatsService.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
