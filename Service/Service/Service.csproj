@@ -64,7 +64,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="App\Entity\File.cs" />
+    <Compile Include="App\Entity\StreamCount.cs" />
+    <Compile Include="App\Entity\User.cs" />
     <Compile Include="App\Repository\FileRepository.cs" />
+    <Compile Include="App\Service\FileService.cs" />
+    <Compile Include="App\Service\StreamCountService.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -96,8 +100,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App\Service\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
