@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Service.Backend.Repository;
 
 namespace Service
 {
@@ -24,11 +25,13 @@ namespace Service
         {
             InitializeComponent();
 
-            
+            var context = new ApplicationDbContext();
+            _statsRepository = new StatsRepository(context);
+            _songRepository = new SongRepository(context);
+            _statsService = new StatsService(_statsRepository);
+            _songService = new SongService(_songRepository);
             
         }
-
-
 
     }
 }

@@ -1,48 +1,53 @@
 ﻿using Service.Backend.Entity;
-using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace Service.Backend.Repository
 {
     public class SongRepository
     {
-        private List<Entity.Song> songList = new List<Entity.Song>();
+        private readonly ApplicationDbContext _context;
 
-        public SongRepository(List<Entity.Song> songList)
+        public SongRepository(ApplicationDbContext context)
         {
-            this.songList = songList;
+            _context = context;
         }
 
-        public bool AddSong(Entity.Song song)
+        public bool AddSong(Song song)
         {
-            if (songList.Any(s => s.SongId == song.SongId))
+            if (_context.Songs.Any(s => s.SongId == song.SongId))
                 return false;
-            songList.Add(song);
+            _context.Songs.Add(song);
+            _context.SaveChanges();
             return true;
         }
 
-        public bool DeleteSong(int songId)
+        public bool DeleteSong(string songId)
         {
-            var song = songList.FirstOrDefault(s => s.SongId == songId);
+            var song = _context.Songs.FirstOrDefault(s => s.SongId == songId);
             if (song == null)
                 return false;
-            songList.Remove(song);
+            _context.Songs.Remove(song);
+            _context.SaveChanges();
             return true;
         }
 
-        public bool UpdateSong(Entity.Song givenSong, int songId)
+        public bool UpdateSong(Song givenSong, string songId)
         {
-            var song = songList.FirstOrDefault(s => s.SongId == songId);
+            var song = _context.Songs.FirstOrDefault(s => s.SongId == songId);
             if (song == null)
                 return false;
-            int index = songList.IndexOf(song);
-            songList[index] = givenSong;
+            song.Title = givenSong.Title;
+            song.Album = givenSong.Album;
+            song.Artist = givenSong.Artist;
+            song.Path = givenSong.Path;
+            _context.SaveChanges();
             return true;
         }
 
-        public Entity.Song GetSongById(int songId)
+        public Song GetSongById(string songId)
         {
-            return songList.FirstOrDefault(s => s.SongId == songId);
+            return _context.Songs.FirstOrDefault(s => s.SongId == songId);
         }
     }
 }

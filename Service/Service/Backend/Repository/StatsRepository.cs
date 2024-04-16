@@ -1,48 +1,50 @@
 ﻿using Service.Backend.Entity;
-using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace Service.Backend.Repository
 {
     public class StatsRepository
     {
-        private List<Entity.Stats> statsList = new List<Entity.Stats>();
+        private readonly ApplicationDbContext _context;
 
-        public StatsRepository(List<Entity.Stats> statsList)
+        public StatsRepository(ApplicationDbContext context)
         {
-            this.statsList = statsList;
+            _context = context;
         }
 
-        public bool AddStat(Entity.Stats stat)
+        public bool AddStat(Stats stat)
         {
-            if (statsList.Any(s => s.StatsId == stat.StatsId))
+            if (_context.Stats.Any(s => s.StatsId == stat.StatsId))
                 return false;
-            statsList.Add(stat);
+            _context.Stats.Add(stat);
+            _context.SaveChanges();
             return true;
         }
 
         public bool DeleteStat(int statsId)
         {
-            var stat = statsList.FirstOrDefault(s => s.StatsId == statsId);
+            var stat = _context.Stats.FirstOrDefault(s => s.StatsId == statsId);
             if (stat == null)
                 return false;
-            statsList.Remove(stat);
+            _context.Stats.Remove(stat);
+            _context.SaveChanges();
             return true;
         }
 
-        public bool UpdateStat(Entity.Stats givenStat, int statsId)
+        public bool UpdateStat(Stats givenStat, int statsId)
         {
-            var stat = statsList.FirstOrDefault(s => s.StatsId == statsId);
+            var stat = _context.Stats.FirstOrDefault(s => s.StatsId == statsId);
             if (stat == null)
                 return false;
-            int index = statsList.IndexOf(stat);
-            statsList[index] = givenStat;
+            stat = givenStat;
+            _context.SaveChanges();
             return true;
         }
 
-        public Entity.Stats GetStatById(int statsId)
+        public Stats GetStatById(int statsId)
         {
-            return statsList.FirstOrDefault(s => s.StatsId == statsId);
+            return _context.Stats.FirstOrDefault(s => s.StatsId == statsId);
         }
     }
 }
